@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="wikimedia" fetch="https://gerrit.wikimedia.org/r/p/mediawiki/" />
+
+  <!-- Core -->
+  <project remote="wikimedia" name="core" path="mediawiki"/>
+
+  <!-- Skins -->
+  <project remote="wikimedia" name="skins/CologneBlue" path="mediawiki/skins/CologneBlue" />
+  <project remote="wikimedia" name="skins/Modern" path="mediawiki/skins/Modern" />
+
+  <!-- Extensions -->
+  <project remote="wikimedia" name="extensions/VisualEditor" path="mediawiki/extensions/VisualEditor" />
+  <project remote="wikimedia" name="extensions/Scribunto" path="mediawiki/extensions/Scribunto" />
+
+</manifest>
+

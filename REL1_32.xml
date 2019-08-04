@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <default revision="REL1_32" sync-j="4" sync-s="true" />
+  <include name="mediawiki.xml" />
+
+</manifest>
