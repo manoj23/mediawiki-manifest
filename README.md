@@ -10,6 +10,7 @@ This contains manifest files to easily fetch the mediawiki source code for the f
 It currently fetches the following skins:
 * CologneBlue
 * Modern
+
 and the following extensions:
 * VisualEditor
 * Scribunto
