@@ -6,12 +6,17 @@
   <project remote="wikimedia" name="core" path="mediawiki"/>
 
   <!-- Skins -->
-  <project remote="wikimedia" name="skins/CologneBlue" path="mediawiki/skins/CologneBlue" />
-  <project remote="wikimedia" name="skins/Modern" path="mediawiki/skins/Modern" />
+  <project remote="wikimedia" name="skins/Vector" path="mediawiki/skins/Vector" />
+  <project remote="wikimedia" name="skins/MonoBook" path="mediawiki/skins/MonoBook" />
+  <project remote="wikimedia" name="skins/MinervaNeue" path="mediawiki/skins/MinervaNeue" />
+  <project remote="wikimedia" name="skins/Timeless" path="mediawiki/skins/Timeless" />
 
   <!-- Extensions -->
+  <project remote="wikimedia" name="extensions/WikiEditor" path="mediawiki/extensions/WikiEditor" />
   <project remote="wikimedia" name="extensions/VisualEditor" path="mediawiki/extensions/VisualEditor" />
+  <project remote="wikimedia" name="extensions/Cite" path="mediawiki/extensions/Cite" />
+  <project remote="wikimedia" name="extensions/SyntaxHighlight_GeSHi" path="mediawiki/extensions/SyntaxHighlight_GeSHi" />
+  <project remote="wikimedia" name="extensions/ParserFunctions" path="mediawiki/extensions/ParserFunctions" />
   <project remote="wikimedia" name="extensions/Scribunto" path="mediawiki/extensions/Scribunto" />
 
 </manifest>
-
